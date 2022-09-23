@@ -47,7 +47,7 @@
 
 <br/>
 
-[![Omar Faruk github activity](https://activity-graph.herokuapp.com/graph?username=omarfaruk2&bg_color=ffffff&color=0000FF&line=E44536&point=E44536&area=true&hide_border=true)](https://github.com/neel123go/github-readme-activity-graph)
+[![Omar Faruk github activity](https://activity-graph.herokuapp.com/graph?username=omarfaruk2&bg_color=ffffff&color=0000FF&line=E44536&point=E44536&area=true&hide_border=true)](https://github.com/omarfaruk2/github-readme-activity-graph)
 
 <br/>
 
