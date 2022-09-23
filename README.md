@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+<img width="500px" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center"  />
 
 <h1 align="center">Hi 👋, I'm Omar Faruk Emon</h1>
 <h3 align="center">A web developer who is responsible for planning and developing software solutions and web applications, supporting and maintaining a company's or clients websites and digital products.</h3>
