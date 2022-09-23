@@ -42,4 +42,21 @@
   <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=omarfaruk2&show_icons=true&locale=en" alt="omarfaruk2" />
 </div>
 
+
+<br/>
+
+## Github Stats  
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omarfaruk2&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaruk2&theme=dark&hide_border=true" />
+</div>
+
+<br/>
+
+[![Ayoun Paul Neel's github activity graph](https://activity-graph.herokuapp.com/graph?username=neel123go&bg_color=ffffff&color=777777&line=E44536&point=E44536&area=true&hide_border=true)](https://github.com/neel123go/github-readme-activity-graph)
+
+<br/>
+
+
 <p></p>
