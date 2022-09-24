@@ -13,13 +13,14 @@
 
 - 🌱 I’m currently learning **Next.js And Typescript**
 
-- 👨‍💻 My Portfolio [https://protfolio-56132.web.app/](https://protfolio-56132.web.app/)
-
 - 💬 Ask me about any kind of question of **Web Development**
 
 - 📫 How to reach me **emon35293@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IPyRnxxRa4U9-PuNdGhN-ZBk9pMGHPRo/view](https://drive.google.com/file/d/1IPyRnxxRa4U9-PuNdGhN-ZBk9pMGHPRo/view)
+- 👨‍💻 [Check My Resume](https://drive.google.com/file/d/1IPyRnxxRa4U9-PuNdGhN-ZBk9pMGHPRo/view)
+
+
+- 📄 [Check Me on Website](https://protfolio-56132.web.app/)
 
 - ⚡ Fun fact **I still watch Tom and Jerry.**
 
