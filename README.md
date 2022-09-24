@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IPyRnxxRa4U9-PuNdGhN-ZBk9pMGHPRo/view](https://drive.google.com/file/d/1IPyRnxxRa4U9-PuNdGhN-ZBk9pMGHPRo/view)
 
-- ⚡ Fun fact **A two-year-old website may be too old**
+- ⚡ Fun fact **I still watch Tom and Jerry.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
