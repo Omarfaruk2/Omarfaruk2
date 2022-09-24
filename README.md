@@ -24,10 +24,11 @@
 - ⚡ Fun fact **I still watch Tom and Jerry.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/omarfaruk404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omarfaruk404" height="30" width="40" /></a>
+ 
 <a href="https://linkedin.com/in/mahammad-omar-faruk-emon-167044231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahammad-omar-faruk-emon-167044231/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18414107/devloper-omar-faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18414107/devloper-omar-faruk" height="30" width="40" /></a>
+ 
 <a href="https://fb.com/omarfarukhshsu22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarfarukhshsu22" height="30" width="40" /></a>
 <a href="https://instagram.com/mdo.marfarukemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdo.marfarukemon" height="30" width="40" /></a>
 </p>
