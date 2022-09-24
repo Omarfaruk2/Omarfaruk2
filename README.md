@@ -1,4 +1,4 @@
-<img width="900px" src="https://i.ibb.co/HFVHqYg/Omar-faruk.png" align="center"  />
+<img width="900px" src="https://i.ibb.co/Nsb7xwt/Omar-faruk-Copy.png" align="center"  />
 
 <h1 align="center">Hi 👋, I'm Omar Faruk Emon</h1>
 <h3 align="center">A web developer who is responsible for planning and developing software solutions and web applications, supporting and maintaining a company's or clients websites and digital products.</h3>
