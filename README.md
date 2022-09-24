@@ -23,24 +23,19 @@
 
 - ⚡ Fun fact **I still watch Tom and Jerry.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">React out me:</h3>
+
 <p align="center">
- 
+
  <a href="https://linkedin.com/in/mahammad-omar-faruk-emon-167044231/" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="mahammad-omar-faruk-emon-167044231/"  width="70px" /></a>
  
 <a href="https://twitter.com/omarfaruk404" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611162618479-ee3d24aaef0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60" alt="omarfaruk404"  width="70px" /></a>
  
- <a href="https://fb.com/omarfarukhshsu22" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60" alt="omarfarukhshsu22"  width="70px" /></a
+ <a href="https://fb.com/omarfarukhshsu22" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60" alt="omarfarukhshsu22"  width="70px" /></a>
  
  
-<a href="https://fb.com/omarfarukhshsu22" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="omarfarukhshsu22" height="30" width="40" /></a
+<a href="https://fb.com/omarfarukhshsu22" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="omarfarukhshsu22" height="30" width="40" /></a>
  
-<!--  
-<a href="https://linkedin.com/in/mahammad-omar-faruk-emon-167044231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahammad-omar-faruk-emon-167044231/" height="30" width="40" /></a>
- 
-<a href="https://fb.com/omarfarukhshsu22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarfarukhshsu22" height="30" width="40" /></a
-
-<a href="https://instagram.com/mdo.marfarukemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdo.marfarukemon" height="30" width="40" /></a> -->
 </p>
 
 ## :computer: Technologies that I know
