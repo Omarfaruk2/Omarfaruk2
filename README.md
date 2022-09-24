@@ -26,9 +26,14 @@
 <h3 align="left">React out me:</h3>
 
 <div align="center">
- <a href="https://linkedin.com/in/mahammad-omar-faruk-emon-167044231/" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="mahammad-omar-faruk-emon-167044231/"  width="70px" /></a>
  
+ <span>
+  <a href="https://linkedin.com/in/mahammad-omar-faruk-emon-167044231/" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="mahammad-omar-faruk-emon-167044231/"  width="70px" /></a>
+ </span>
+ 
+ <span>
 <a href="https://twitter.com/omarfaruk404" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611162618479-ee3d24aaef0b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60" alt="omarfaruk404"  width="70px" /></a>
+ </span>
  
  <a href="https://fb.com/omarfarukhshsu22" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60" alt="omarfarukhshsu22"  width="70px" /></a>
  
