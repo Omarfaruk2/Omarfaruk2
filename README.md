@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I still watch Tom and Jerry.**
 
-<h2 align="left">React out me:</h2>
+<h2 align="left">Reach out me:</h2>
 
 <div align="center">
  
