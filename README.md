@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk2" alt="omarfaruk2" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/omarfaruk404" target="blank"><img src="https://img.shields.io/twitter/follow/omarfaruk404?logo=twitter&style=for-the-badge" alt="omarfaruk404" /></a> </p>
-
 - 🔭 I’m currently working on [Boundless Adventure](https://travel-cf724.web.app/)
 
 - 🌱 I’m currently learning **Next.js And Typescript**
@@ -55,8 +53,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img width="60px" style="border-radius: 50%;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&usqp=CAU"/>
-</p><br/>
-
+</p>
 
 ## Github Stats  
 
